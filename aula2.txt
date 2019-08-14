@@ -1,0 +1,16 @@
+id -> identifica o objeto de forma única
+class -> identifica um objeto e pode ser reutilizada
+
+id= ""
+class= ""
+
+heading tags -> Importância do conteúdo SEO (Search Engine
+                Optimization)
+
+<h1></h1> -> subtítulo (1 por página)
+<h2></h2>
+...
+<h6></h6>
+
+*** Usar de forma hierárquica
+
